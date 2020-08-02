@@ -3,8 +3,9 @@ check jetpack version
 $ sudo apt-cache show nvidia-jetpack
 
 install jetpack if necessary
-sudo apt update
-sudo apt install nvidia-jetpack
+
+$ sudo apt update
+$ sudo apt install nvidia-jetpack
 
 
 install vscode
